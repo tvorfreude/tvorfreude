@@ -1,6 +1,6 @@
 # Hi, I'm Tristan 👋
 
-🎓 Student at Macquarie University  
+🌏 Employee at Amazon Web Services (AWS)  
 💻 Programming in Java & Python  
 🧑‍🔬 Homelab enthusiast: Infrastructure as Code (IaC) stacks inspired by Christian Lempa  
 🌐 Interested in Networks, UniFi, hardware, small computing (Raspberry Pi, ARM, RISCV)  
